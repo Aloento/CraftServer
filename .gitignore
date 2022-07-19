@@ -5,3 +5,4 @@ versions
 crash-reports
 libraries
 *.dat_old
+.vscode
