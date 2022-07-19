@@ -46,7 +46,7 @@ remote:
   # Authentication type. Can be offline, online, or floodgate (see https://github.com/GeyserMC/Geyser/wiki/Floodgate).
   # For plugin versions, it's recommended to keep the `address` field to "auto" so Floodgate support is automatically configured.
   # If Floodgate is installed and `address:` is set to "auto", then "auth-type: floodgate" will automatically be used.
-  auth-type: online
+  auth-type: offline
   # Allow for password-based authentication methods through Geyser. Only useful in online mode.
   # If this is false, users must authenticate to Microsoft using a code provided by Geyser on their desktop.
   allow-password-authentication: true
@@ -73,6 +73,8 @@ floodgate-key-file: key.pem
 # Removing a name from this list will delete its cached login information on the next Geyser startup.
 # The file for this is in the same folder as this config, named "saved-refresh-tokens.json".
 saved-user-logins:
+  - ThisExampleUsernameShouldBeLongEnoughToNeverBeAnXboxUsername
+  - ThisOtherExampleUsernameShouldAlsoBeLongEnough
 
 # Specify how many seconds to wait while user authorizes Geyser to access their Microsoft account.
 # User is allowed to disconnect from the server during this period.
@@ -179,7 +181,7 @@ xbox-achievements-enabled: false
 # https://bstats.org/plugin/server-implementation/GeyserMC
 metrics:
   # If metrics should be enabled
-  enabled: true
+  enabled: false
   # UUID of server, don't change!
   uuid: 929f9762-d42f-4da7-94f4-bb2c1ba1fcb6
 
