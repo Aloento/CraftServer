@@ -19,10 +19,10 @@ bedrock:
   clone-remote-port: false
   # The MOTD that will be broadcasted to Minecraft: Bedrock Edition clients. This is irrelevant if "passthrough-motd" is set to true
   # If either of these are empty, the respective string will default to "Geyser"
-  motd1: "Geyser"
-  motd2: "Another Geyser server."
+  motd1: "CraftServer"
+  motd2: "Another CraftServer"
   # The Server Name that will be sent to Minecraft: Bedrock Edition clients. This is visible in both the pause menu and the settings menu.
-  server-name: "Geyser"
+  server-name: "CraftServer"
   # How much to compress network traffic to the Bedrock client. The higher the number, the more CPU usage used, but
   # the smaller the bandwidth used. Does not have any effect below -1 or above 9. Set to -1 to disable.
   compression-level: 6
@@ -73,8 +73,6 @@ floodgate-key-file: key.pem
 # Removing a name from this list will delete its cached login information on the next Geyser startup.
 # The file for this is in the same folder as this config, named "saved-refresh-tokens.json".
 saved-user-logins:
-  - ThisExampleUsernameShouldBeLongEnoughToNeverBeAnXboxUsername
-  - ThisOtherExampleUsernameShouldAlsoBeLongEnough
 
 # Specify how many seconds to wait while user authorizes Geyser to access their Microsoft account.
 # User is allowed to disconnect from the server during this period.
@@ -86,7 +84,7 @@ command-suggestions: true
 
 # The following three options enable "ping passthrough" - the MOTD, player count and/or protocol name gets retrieved from the Java server.
 # Relay the MOTD from the remote server to Bedrock players.
-passthrough-motd: false
+passthrough-motd: true
 # Relay the protocol name (e.g. BungeeCord [X.X], Paper 1.X) - only really useful when using a custom protocol name!
 # This will also show up on sites like MCSrvStatus. <mcsrvstat.us>
 passthrough-protocol-name: false
