@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "uuid": "95eb3260-e1f0-34a6-96bc-c0f8b69b4679",
+    "name": "Aloento",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "be145095-a040-30fe-8e7f-88629a86a247",
+    "name": "GoRoadMe",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "01579926-2d61-36a5-a23a-56e5a3ca65c7",
+    "name": "is_rainbow",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
