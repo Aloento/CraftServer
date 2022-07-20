@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 123.174.93.9
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1658332449295
+  login: 1658332425337
+money: '0'
+last-account-name: anyei
+lastlocation:
+  world: e06014b7-68a5-4e8f-ba34-becad4f396e8
+  world-name: world
+  x: 8.5
+  y: 70.0
+  z: 20.5
+  yaw: 179.0233154296875
+  pitch: 16.94347381591797
+logoutlocation:
+  world: e06014b7-68a5-4e8f-ba34-becad4f396e8
+  world-name: world
+  x: 8.571501356087847
+  y: 70.95892725184235
+  z: 20.35925212411873
+  yaw: 179.0233154296875
+  pitch: 16.94347381591797

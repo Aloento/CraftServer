@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2022-07-20 15:56:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2022-07-19 16:27:49 +0000"
@@ -599,6 +605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2022-07-20 15:49:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2022-07-20 09:54:25 +0000"
@@ -608,7 +620,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2022-07-20 10:21:16 +0000",
-      "minecraft:enderman": "2022-07-20 10:06:07 +0000"
+      "minecraft:enderman": "2022-07-20 10:06:07 +0000",
+      "minecraft:zombie": "2022-07-20 15:50:56 +0000"
     },
     "done": false
   },
@@ -633,6 +646,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2022-07-19 17:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2022-07-20 15:49:43 +0000"
     },
     "done": true
   },
