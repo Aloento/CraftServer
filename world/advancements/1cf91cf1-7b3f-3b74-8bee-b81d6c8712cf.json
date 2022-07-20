@@ -5,21 +5,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2022-07-20 05:56:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2022-07-20 06:02:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_sword": "2022-07-20 05:28:57 +0000"
     },
     "done": true
   },
@@ -35,21 +23,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2022-07-20 12:36:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-07-20 07:03:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:skeleton": "2022-07-20 05:24:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_helmet": "2022-07-20 05:29:38 +0000"
     },
     "done": true
   },
@@ -59,21 +41,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone": {
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
-      "has_cobblestone": "2022-07-20 07:03:42 +0000"
+      "has_tag": "2022-07-20 12:36:48 +0000"
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
+  "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
-      "get_stone": "2022-07-20 07:03:42 +0000"
+      "has_minecart": "2022-07-20 13:07:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/furnace": {
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
-      "has_cobblestone": "2022-07-20 07:03:42 +0000"
+      "has_stone_bricks": "2022-07-20 12:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2022-07-20 12:36:48 +0000"
     },
     "done": true
   },
@@ -83,31 +71,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:taiga": "2022-07-20 05:12:02 +0000",
-      "minecraft:birch_forest": "2022-07-20 05:56:26 +0000",
-      "minecraft:dark_forest": "2022-07-20 05:57:02 +0000",
-      "minecraft:river": "2022-07-20 05:56:18 +0000",
-      "minecraft:old_growth_birch_forest": "2022-07-20 05:25:16 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2022-07-20 06:54:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2022-07-20 05:22:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2022-07-20 05:27:43 +0000"
     },
     "done": true
   },
@@ -129,6 +95,299 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2022-07-20 12:56:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2022-07-20 12:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2022-07-20 06:01:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2022-07-20 12:54:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-07-20 05:29:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2022-07-20 13:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2022-07-20 06:02:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2022-07-20 06:54:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2022-07-20 05:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2022-07-20 06:02:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2022-07-20 06:01:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2022-07-20 05:12:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2022-07-20 06:54:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2022-07-20 05:22:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-07-20 05:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2022-07-20 12:50:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2022-07-20 12:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2022-07-20 06:01:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2022-07-20 07:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2022-07-20 05:30:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2022-07-20 06:02:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2022-07-20 05:58:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2022-07-20 05:26:07 +0000",
+      "rotten_flesh": "2022-07-20 05:58:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2022-07-20 06:01:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2022-07-20 07:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2022-07-20 05:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2022-07-20 05:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2022-07-20 05:31:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2022-07-20 07:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2022-07-20 12:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2022-07-20 06:54:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2022-07-20 12:36:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-07-20 06:54:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2022-07-20 06:54:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2022-07-20 05:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2022-07-20 05:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2022-07-20 05:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2022-07-20 05:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2022-07-20 05:29:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2022-07-20 12:36:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2022-07-20 07:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2022-07-20 07:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2022-07-20 07:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2022-07-20 12:36:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2022-07-20 05:12:02 +0000",
+      "minecraft:birch_forest": "2022-07-20 05:56:26 +0000",
+      "minecraft:dark_forest": "2022-07-20 05:57:02 +0000",
+      "minecraft:river": "2022-07-20 05:56:18 +0000",
+      "minecraft:old_growth_birch_forest": "2022-07-20 05:25:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2022-07-20 13:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2022-07-20 05:22:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2022-07-20 05:27:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2022-07-20 05:22:43 +0000"
@@ -147,15 +406,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2022-07-20 12:36:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2022-07-20 05:26:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ladder": {
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
-      "has_stick": "2022-07-20 06:01:37 +0000"
+      "has_stone_bricks": "2022-07-20 12:36:48 +0000"
     },
     "done": true
   },
@@ -165,45 +430,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2022-07-20 05:29:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_bed": {
-    "criteria": {
-      "has_light_gray_wool": "2022-07-20 06:02:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2022-07-20 06:02:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_button": {
-    "criteria": {
-      "has_planks": "2022-07-20 06:54:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2022-07-20 07:03:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2022-07-20 05:21:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2022-07-20 06:02:36 +0000"
     },
     "done": true
   },
@@ -219,15 +454,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_shovel": {
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
-      "has_stick": "2022-07-20 06:01:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/torch": {
-    "criteria": {
-      "has_stone_pickaxe": "2022-07-20 05:12:02 +0000"
+      "has_mossy_stone_bricks": "2022-07-20 12:36:51 +0000"
     },
     "done": true
   },
@@ -255,18 +484,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2022-07-20 06:54:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2022-07-20 05:22:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2022-07-20 05:24:20 +0000"
@@ -274,12 +491,6 @@
     "done": true
   },
   "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2022-07-20 05:21:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2022-07-20 05:21:44 +0000"
     },
@@ -294,24 +505,6 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2022-07-20 06:54:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2022-07-20 06:01:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_shovel": {
-    "criteria": {
-      "has_cobblestone": "2022-07-20 07:03:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2022-07-20 05:30:44 +0000"
     },
     "done": true
   },
@@ -339,18 +532,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_banner": {
-    "criteria": {
-      "has_light_gray_wool": "2022-07-20 06:02:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2022-07-20 05:58:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2022-07-20 05:50:24 +0000",
@@ -367,34 +548,21 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "cooked_beef": "2022-07-20 05:26:07 +0000",
-      "rotten_flesh": "2022-07-20 05:58:26 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2022-07-20 06:01:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2022-07-20 06:54:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_slab": {
+  "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
-      "has_cobblestone": "2022-07-20 07:03:42 +0000"
+      "has_minecart": "2022-07-20 13:07:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tripwire_hook": {
+  "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
-      "has_string": "2022-07-20 05:56:32 +0000"
+      "has_stone_bricks": "2022-07-20 12:36:48 +0000"
     },
     "done": true
   },
@@ -410,33 +578,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2022-07-20 05:53:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2022-07-20 05:31:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
-    "criteria": {
-      "has_cobblestone": "2022-07-20 07:03:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2022-07-20 06:54:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_slab": {
+  "minecraft:recipes/transportation/rail": {
     "criteria": {
-      "has_planks": "2022-07-20 06:54:21 +0000"
+      "has_minecart": "2022-07-20 13:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2022-07-20 12:50:46 +0000"
     },
     "done": true
   },
@@ -446,27 +602,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_fence_gate": {
-    "criteria": {
-      "has_planks": "2022-07-20 06:54:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2022-07-20 06:54:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2022-07-20 05:21:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/crossbow": {
-    "criteria": {
-      "has_string": "2022-07-20 05:56:32 +0000"
     },
     "done": true
   },
@@ -491,6 +629,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2022-07-20 06:54:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2022-07-20 12:36:48 +0000"
     },
     "done": true
   },

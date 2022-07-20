@@ -29,9 +29,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2022-07-20 08:51:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2022-07-19 22:40:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2022-07-20 08:51:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2022-07-20 08:51:23 +0000"
     },
     "done": true
   },
@@ -101,9 +119,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2022-07-20 08:51:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2022-07-20 08:51:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2022-07-19 22:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2022-07-20 08:51:23 +0000"
     },
     "done": true
   },
@@ -149,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2022-07-20 08:51:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2022-07-19 21:44:01 +0000"
@@ -158,6 +200,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2022-07-19 22:45:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2022-07-20 08:51:16 +0000"
     },
     "done": true
   },
@@ -173,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2022-07-20 08:51:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2022-07-19 21:34:47 +0000"
@@ -182,6 +236,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2022-07-19 22:40:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2022-07-20 08:51:23 +0000"
     },
     "done": true
   },
@@ -200,6 +260,18 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2022-07-19 22:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2022-07-20 08:51:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2022-07-20 08:51:23 +0000"
     },
     "done": true
   },
@@ -239,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2022-07-20 08:51:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2022-07-19 21:42:26 +0000"
@@ -257,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2022-07-20 08:51:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/throw_trident": {
     "criteria": {
       "shot_trident": "2022-07-19 22:37:06 +0000"
@@ -266,6 +350,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2022-07-19 22:45:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2022-07-20 08:51:23 +0000"
     },
     "done": true
   },
@@ -328,6 +418,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2022-07-20 08:51:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2022-07-19 22:45:34 +0000"
@@ -349,6 +445,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2022-07-19 22:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2022-07-20 08:51:23 +0000"
     },
     "done": true
   },
@@ -409,6 +511,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2022-07-19 22:40:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2022-07-20 08:51:23 +0000"
     },
     "done": true
   },
