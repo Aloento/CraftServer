@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1658322784301
-  login: 1658322738271
+  logout: 1658327806272
+  login: 1658327738292
 money: '0'
 last-account-name: AECN37EL
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: e06014b7-68a5-4e8f-ba34-becad4f396e8
   world-name: world
-  x: 5.6778917
-  y: 92.93631
-  z: 18.335808
-  yaw: -92.78279113769531
-  pitch: 5.8664703369140625
+  x: -19.204285
+  y: 54.52581024169922
+  z: 7.0147486
+  yaw: 56.049468994140625
+  pitch: 29.58697509765625

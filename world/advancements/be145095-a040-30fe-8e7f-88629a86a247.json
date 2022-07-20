@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2022-07-20 13:48:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2022-07-19 15:35:20 +0000"
@@ -387,6 +393,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2022-07-20 14:00:13 +0000",
       "minecraft:taiga": "2022-07-19 15:32:23 +0000",
       "minecraft:birch_forest": "2022-07-19 15:55:47 +0000",
       "minecraft:beach": "2022-07-19 15:46:17 +0000",
@@ -394,7 +401,9 @@
       "minecraft:river": "2022-07-19 15:39:33 +0000",
       "minecraft:snowy_plains": "2022-07-19 15:50:56 +0000",
       "minecraft:forest": "2022-07-19 15:41:02 +0000",
+      "minecraft:ocean": "2022-07-20 14:07:19 +0000",
       "minecraft:old_growth_spruce_taiga": "2022-07-19 15:41:49 +0000",
+      "minecraft:flower_forest": "2022-07-20 13:56:40 +0000",
       "minecraft:old_growth_birch_forest": "2022-07-19 15:51:33 +0000",
       "minecraft:plains": "2022-07-20 11:37:32 +0000"
     },
