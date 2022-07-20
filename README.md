@@ -27,13 +27,13 @@ mc.aloen.to
 
 [PCL 启动器](<https://afdian.net/p/0164034c016c11ebafcb52540025c377>)
 
-![pcl](https://raw.githubusercontent.com/rainbowflesh/rainbowflesh/main/asset/img/etc/pcl.png)
+![pcl](asset/pcl.png)
 
 or
 
 [HMCL 启动器](https://hmcl.huangyuhui.net/)
 
-![hmcl](https://raw.githubusercontent.com/rainbowflesh/rainbowflesh/main/asset/img/etc/hmcl.png)
+![hmcl](asset/hmcl.png)
 
 > 两个启动器没有特别明显的差别, 易用性是同样的, HMCL 更为古老, PCL 则更加现代化 (UI 也更好看).
 >
@@ -51,6 +51,12 @@ or
   1. 请点击左侧菜单 *所有版本*;
   2. 点击 *安装新游戏版本*, 在游戏列表中选择 *1.19 正式版*;
   3. mod 方面与 PCL 一样, 不再赘述.
+
+游戏本体下载完成后, 请在你的启动器中选择 *账户*, 并创建一个离线账户, 便可以启动游戏啦.
+
+进入游戏后, 请点击 *多人游戏*, 选择 *添加一个服务器*, 填入上方的服务器地址 *mc.aloen.to*, 即可加入多人游戏.
+![multiplayer](asset/multiplayer.png)
+> 服务器名称只是一个备注, 可以随便填写.
 
 ## 加入社群
 
