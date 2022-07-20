@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 123.119.237.29
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1658297370586
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1658301358411
+  login: 1658289795860
+money: '0'
+last-account-name: XLong_0485
+lastlocation:
+  world: e06014b7-68a5-4e8f-ba34-becad4f396e8
+  world-name: world
+  x: 94.33517894333967
+  y: 65.0625
+  z: 242.53058358479691
+  yaw: -76.3465576171875
+  pitch: 7.350154399871826
+logoutlocation:
+  world: e06014b7-68a5-4e8f-ba34-becad4f396e8
+  world-name: world
+  x: -17.462471157666684
+  y: 52.0
+  z: -7.0908458607329035
+  yaw: -97.94580078125
+  pitch: -19.649085998535156

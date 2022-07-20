@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 120.245.16.7
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1658301277245
+  login: 1658301274234
+money: '0'
+last-account-name: AECN37EL
+lastlocation:
+  world: e06014b7-68a5-4e8f-ba34-becad4f396e8
+  world-name: world
+  x: 60.30001
+  y: 63.0
+  z: 241.30001
+  yaw: -176.71990966796875
+  pitch: 3.591461181640625
+logoutlocation:
+  world: e06014b7-68a5-4e8f-ba34-becad4f396e8
+  world-name: world
+  x: -14.401154
+  y: 68.0
+  z: -0.2508663
+  yaw: -1.9777374267578125
+  pitch: 8.345962524414062
