@@ -66,7 +66,7 @@ physics:
     allow-portal-anywhere: false
     disable-water-damage-blocks: []
 ignition:
-    block-tnt: false
+    block-tnt: true
     block-tnt-block-damage: false
     block-lighter: false
 fire:
