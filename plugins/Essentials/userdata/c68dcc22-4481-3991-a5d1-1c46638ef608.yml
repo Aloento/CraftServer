@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 42.249.198.87
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1658409024089
+  login: 1658408809307
+money: '0'
+last-account-name: Painkiller0v0
+lastlocation:
+  world: e06014b7-68a5-4e8f-ba34-becad4f396e8
+  world-name: world
+  x: 5.5
+  y: 94.0
+  z: 6.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: e06014b7-68a5-4e8f-ba34-becad4f396e8
+  world-name: world
+  x: 65.9297
+  y: 66.0
+  z: 107.40573
+  yaw: -42.54888916015625
+  pitch: -89.89999389648438

@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/froglights": {
+    "criteria": {
+      "froglights": "2022-07-21 11:07:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2022-07-20 11:21:45 +0000"
@@ -275,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2022-07-21 11:19:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2022-07-20 11:10:58 +0000"
@@ -379,7 +391,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "porkchop": "2022-07-19 15:47:57 +0000"
+      "porkchop": "2022-07-19 15:47:57 +0000",
+      "glow_berries": "2022-07-21 11:18:26 +0000"
     },
     "done": false
   },
@@ -623,6 +636,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2022-07-21 11:36:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2022-07-19 15:37:11 +0000"
@@ -845,6 +864,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2022-07-21 11:08:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2022-07-20 15:50:00 +0000",
@@ -1029,6 +1054,12 @@
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2022-07-20 13:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2022-07-21 11:24:53 +0000"
     },
     "done": true
   },
@@ -1887,6 +1918,18 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-07-20 21:33:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2022-07-21 11:36:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2022-07-21 11:19:07 +0000"
     },
     "done": true
   },

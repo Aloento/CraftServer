@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 221.219.100.173
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1658406978140
+  login: 1658406680698
+money: '0'
+last-account-name: paouke
+lastlocation:
+  world: e06014b7-68a5-4e8f-ba34-becad4f396e8
+  world-name: world
+  x: -5.5
+  y: 92.0
+  z: 5.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: e06014b7-68a5-4e8f-ba34-becad4f396e8
+  world-name: world
+  x: 127.22188
+  y: 65.0
+  z: 175.32672
+  yaw: -14.376983642578125
+  pitch: 15.323745727539062
