@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 123.119.235.51
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1658389633798
+  login: 1658387407550
+money: '0'
+last-account-name: zemingchen
+lastlocation:
+  world: e06014b7-68a5-4e8f-ba34-becad4f396e8
+  world-name: world
+  x: -1.5
+  y: 92.0
+  z: -6.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: e06014b7-68a5-4e8f-ba34-becad4f396e8
+  world-name: world
+  x: -1843.2057043153584
+  y: 63.0
+  z: -120.74732232792773
+  yaw: -43.982086181640625
+  pitch: 46.409122467041016

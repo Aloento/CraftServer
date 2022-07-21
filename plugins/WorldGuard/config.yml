@@ -17,7 +17,7 @@ regions:
     wand: minecraft:leather
     max-claim-volume: 30000
     claim-only-inside-existing-regions: false
-    set-parent-on-claim: ""
+    set-parent-on-claim: ''
     location-flags-only-inside-regions: false
     max-region-count-per-player:
         default: 7
@@ -37,7 +37,7 @@ summary-on-start: true
 op-permissions: true
 build-permission-nodes:
     enable: false
-    deny-message: "&eSorry, but you are not permitted to do that here."
+    deny-message: '&eSorry, but you are not permitted to do that here.'
 event-handling:
     block-entity-spawns-with-untraceable-cause: false
     interaction-whitelist: []
@@ -51,6 +51,7 @@ protection:
     use-max-priority-association: false
 chest-protection:
     enable: true
+    disable-off-check: false
 gameplay:
     block-potions: []
     block-potions-overly-reliably: false
@@ -152,7 +153,7 @@ blacklist:
             enable: false
             dsn: jdbc:mysql://localhost:3306/minecraft
             user: root
-            pass: ""
+            pass: ''
             table: blacklist_events
         file:
             enable: false
