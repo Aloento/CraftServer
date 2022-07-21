@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 123.14.254.137
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1658421591031
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1658421740089
+  login: 1658416639539
+money: '0'
+last-account-name: GoRoad
+lastlocation:
+  world: e06014b7-68a5-4e8f-ba34-becad4f396e8
+  world-name: world
+  x: 362.1719286863313
+  y: 98.23799762117187
+  z: 287.58097866676144
+  yaw: 64.4091796875
+  pitch: 17.699909210205078
+logoutlocation:
+  world: e06014b7-68a5-4e8f-ba34-becad4f396e8
+  world-name: world
+  x: 23.863972834623087
+  y: 63.0
+  z: -1002.3338061450631
+  yaw: -147.65863037109375
+  pitch: 4.649953842163086
