@@ -22,11 +22,5 @@
     "name": "GoRoadMe",
     "level": 2,
     "bypassesPlayerLimit": true
-  },
-  {
-    "uuid": "01579926-2d61-36a5-a23a-56e5a3ca65c7",
-    "name": "is_rainbow",
-    "level": 2,
-    "bypassesPlayerLimit": true
   }
 ]
