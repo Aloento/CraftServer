@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1658420918535
-  login: 1658420873144
+  logout: 1658428347558
+  login: 1658428237572
 money: '0'
 last-account-name: is_rainbow
 logoutlocation:
   world: e06014b7-68a5-4e8f-ba34-becad4f396e8
   world-name: world
-  x: 665.8343263414241
+  x: 661.1244668814653
   y: 75.11650136792812
-  z: 37.758701215974156
-  yaw: 107.6099853515625
-  pitch: 39.481082916259766
+  z: 38.957776785008534
+  yaw: 98.11368560791016
+  pitch: 31.88400650024414
 lastlocation:
   world: e06014b7-68a5-4e8f-ba34-becad4f396e8
   world-name: world

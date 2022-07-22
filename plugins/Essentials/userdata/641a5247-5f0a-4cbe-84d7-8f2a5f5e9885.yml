@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1658421794881
-  login: 1658413132392
+  logout: 1658494305507
+  login: 1658494057584
 money: '0'
 last-account-name: Aloento
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: e06014b7-68a5-4e8f-ba34-becad4f396e8
   world-name: world
-  x: 13.5
+  x: 25.55316684839681
   y: 63.0
-  z: 3.5
-  yaw: -71.91336822509766
-  pitch: 10.799488067626953
+  z: 6.699999988079071
+  yaw: -162.0567626953125
+  pitch: 55.79946517944336
