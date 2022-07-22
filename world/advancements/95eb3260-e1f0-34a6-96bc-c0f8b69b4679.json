@@ -89,9 +89,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2022-07-22 13:18:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2022-07-20 10:23:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2022-07-22 13:18:20 +0000"
     },
     "done": true
   },
@@ -176,6 +188,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2022-07-19 15:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2022-07-22 14:52:15 +0000"
     },
     "done": true
   },
@@ -329,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2022-07-22 13:18:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2022-07-20 10:32:07 +0000"
@@ -438,6 +462,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2022-07-22 13:18:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2022-07-20 11:21:45 +0000"
@@ -459,6 +489,12 @@
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2022-07-20 13:19:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2022-07-22 15:49:44 +0000"
     },
     "done": true
   },
@@ -642,6 +678,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2022-07-22 13:16:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2022-07-19 15:37:11 +0000"
@@ -705,6 +747,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2022-07-20 12:51:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2022-07-22 13:18:20 +0000"
     },
     "done": true
   },
@@ -916,6 +964,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2022-07-19 17:23:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2022-07-22 13:18:20 +0000"
     },
     "done": true
   },
@@ -1159,6 +1213,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2022-07-22 13:18:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2022-07-20 11:02:13 +0000"
@@ -1225,6 +1285,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2022-07-22 13:18:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2022-07-20 10:23:17 +0000"
@@ -1234,6 +1300,12 @@
   "minecraft:nether/create_beacon": {
     "criteria": {
       "beacon": "2022-07-20 11:44:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2022-07-22 13:18:20 +0000"
     },
     "done": true
   },
@@ -1581,17 +1653,23 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2022-07-22 16:36:14 +0000",
       "minecraft:taiga": "2022-07-19 15:31:46 +0000",
+      "minecraft:frozen_river": "2022-07-22 16:37:51 +0000",
       "minecraft:sunflower_plains": "2022-07-20 11:37:01 +0000",
       "minecraft:birch_forest": "2022-07-19 15:58:13 +0000",
       "minecraft:windswept_hills": "2022-07-20 11:34:14 +0000",
       "minecraft:beach": "2022-07-20 11:12:11 +0000",
       "minecraft:dark_forest": "2022-07-19 16:03:31 +0000",
       "minecraft:river": "2022-07-19 15:39:44 +0000",
+      "minecraft:dripstone_caves": "2022-07-22 13:09:46 +0000",
+      "minecraft:snowy_taiga": "2022-07-22 16:38:15 +0000",
       "minecraft:cold_ocean": "2022-07-20 11:12:45 +0000",
       "minecraft:forest": "2022-07-19 15:39:51 +0000",
+      "minecraft:frozen_ocean": "2022-07-22 16:38:21 +0000",
       "minecraft:ocean": "2022-07-20 11:36:39 +0000",
       "minecraft:old_growth_spruce_taiga": "2022-07-19 15:46:51 +0000",
+      "minecraft:snowy_beach": "2022-07-22 15:48:34 +0000",
       "minecraft:old_growth_birch_forest": "2022-07-19 15:52:32 +0000",
       "minecraft:plains": "2022-07-19 17:50:15 +0000"
     },
