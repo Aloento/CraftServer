@@ -1,0 +1,12 @@
+paper.jar
+logs
+cache
+versions
+crash-reports
+libraries
+*.dat_old
+.vscode
+ops.json
+usercache.json
+authme.db
+authme.log
