@@ -361,6 +361,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2022-07-24 08:35:31 +0000",
       "minecraft:taiga": "2022-07-19 15:33:46 +0000",
       "minecraft:birch_forest": "2022-07-19 15:58:41 +0000",
       "minecraft:dark_forest": "2022-07-19 15:59:00 +0000",
