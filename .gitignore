@@ -10,3 +10,6 @@ ops.json
 usercache.json
 authme.db
 authme.log
+plugins\AuthMe\authme.log
+plugins\AuthMe\authme.db
+plugins\AuthMe\config.yml
