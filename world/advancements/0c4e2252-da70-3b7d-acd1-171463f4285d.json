@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2022-07-25 04:15:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2022-07-22 14:08:56 +0000"
@@ -569,6 +575,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2022-07-25 04:44:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2022-07-23 04:46:54 +0000"
@@ -758,7 +770,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2022-07-23 06:19:37 +0000",
-      "minecraft:enderman": "2022-07-23 06:19:47 +0000"
+      "minecraft:creeper": "2022-07-25 04:07:17 +0000",
+      "minecraft:enderman": "2022-07-23 06:19:47 +0000",
+      "minecraft:zombie": "2022-07-25 03:54:22 +0000"
     },
     "done": false
   },
@@ -933,6 +947,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-07-24 06:31:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2022-07-25 04:15:37 +0000"
     },
     "done": true
   },
