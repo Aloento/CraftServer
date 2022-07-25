@@ -58,6 +58,20 @@ or
 ![multiplayer](asset/multiplayer.png)
 > 服务器名称只是一个备注, 可以随便填写.
 
+本服务器开启了登录验证，首次进入需要进行注册，注册方法如下
+```
+  /register <password> <confirm password>
+```
+如设置密码为 `abc123`，则输入
+```
+  /register abc123 abc123
+```
+注册完成后，使用登录命令进入服务器
+```
+  /login <password>
+```
+### Enjoy the game
+
 ## 加入社群
 
 QQ 群：170998731
