@@ -769,6 +769,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2022-07-27 08:37:55 +0000",
       "minecraft:skeleton": "2022-07-23 06:19:37 +0000",
       "minecraft:creeper": "2022-07-25 04:07:17 +0000",
       "minecraft:enderman": "2022-07-23 06:19:47 +0000",
@@ -839,6 +840,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2022-07-22 14:08:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2022-07-27 08:37:55 +0000"
     },
     "done": true
   },
