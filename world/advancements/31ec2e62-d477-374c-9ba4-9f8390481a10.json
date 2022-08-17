@@ -1,7 +1,31 @@
 {
-  "minecraft:recipes/decorations/torch": {
+  "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
-      "has_stone_pickaxe": "2022-08-05 10:11:14 +0000"
+      "has_pumpkin": "2022-08-15 13:08:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-08-15 13:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2022-08-15 13:09:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-08-15 13:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2022-08-15 13:21:41 +0000"
     },
     "done": true
   },
@@ -11,9 +35,60 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2022-08-05 10:11:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-08-15 13:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-08-15 13:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "sweet_berries": "2022-08-15 13:09:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-08-15 13:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2022-08-15 13:08:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-08-15 13:21:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:taiga": "2022-08-05 10:11:14 +0000"
+      "minecraft:old_growth_pine_taiga": "2022-08-15 13:04:33 +0000",
+      "minecraft:taiga": "2022-08-05 10:11:14 +0000",
+      "minecraft:frozen_river": "2022-08-15 13:06:13 +0000",
+      "minecraft:beach": "2022-08-15 13:06:04 +0000",
+      "minecraft:river": "2022-08-15 13:05:34 +0000",
+      "minecraft:snowy_taiga": "2022-08-15 13:06:34 +0000",
+      "minecraft:forest": "2022-08-15 13:20:35 +0000",
+      "minecraft:frozen_ocean": "2022-08-15 13:06:37 +0000",
+      "minecraft:snowy_beach": "2022-08-15 13:06:15 +0000",
+      "minecraft:plains": "2022-08-15 13:20:57 +0000"
     },
     "done": false
   },
