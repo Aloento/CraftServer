@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1660724286788
-  login: 1660723041884
+  logout: 1660808821260
+  login: 1660804800425
 money: '0'
 last-account-name: XLong_0485
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: e06014b7-68a5-4e8f-ba34-becad4f396e8
   world-name: world
-  x: 21.424740893617216
-  y: 63.0
-  z: 9.098165411168354
-  yaw: 177.701416015625
-  pitch: 35.0994873046875
+  x: 7.88873729165077
+  y: 71.0
+  z: 13.171321107156446
+  yaw: -122.507080078125
+  pitch: -1.0502935647964478
