@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 58.218.249.18
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1663135210050
+  login: 1663134931023
+money: '0'
+last-account-name: liuxspro
+lastlocation:
+  world: e06014b7-68a5-4e8f-ba34-becad4f396e8
+  world-name: world
+  x: -4.5
+  y: 94.0
+  z: 10.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: e06014b7-68a5-4e8f-ba34-becad4f396e8
+  world-name: world
+  x: -211.7719607562036
+  y: 71.0
+  z: 150.43112311185584
+  yaw: 90.30975341796875
+  pitch: 15.299962043762207

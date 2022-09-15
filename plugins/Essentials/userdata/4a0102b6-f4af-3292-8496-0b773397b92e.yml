@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 222.131.4.48
+ip-address: 107.150.30.175
 afk: false
 socialspy: false
 npc: false
@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1661647075793
-  login: 1661647043019
+  logout: 1662866233338
+  login: 1662866230237
 money: '0'
 last-account-name: schtonn
 lastlocation:
