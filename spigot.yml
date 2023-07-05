@@ -59,10 +59,10 @@ commands:
   - tellraw
 world-settings:
   default:
-    seed-ancientcity: 20083232
-    seed-trailruins: 83469867
-    seed-buriedtreasure: 10387320
-    seed-mineshaft: default
+    seed-ancientcity: 26369911
+    seed-trailruins: 26369911
+    seed-buriedtreasure: 26369911
+    seed-mineshaft: 26369911
     below-zero-generation-in-existing-chunks: true
     end-portal-sound-radius: 0
     enable-zombie-pigmen-portal-spawns: true
@@ -130,22 +130,22 @@ world-settings:
       villagers-active-for-panic: true
       tick-inactive-villagers: true
       ignore-spectators: false
-    seed-village: 10387312
-    seed-desert: 14357617
-    seed-igloo: 14357618
-    seed-jungle: 14357619
-    seed-swamp: 14357620
-    seed-monument: 10387313
-    seed-shipwreck: 165745295
-    seed-ocean: 14357621
-    seed-outpost: 165745296
-    seed-endcity: 10387313
-    seed-slime: 987234911
-    seed-nether: 30084232
-    seed-mansion: 10387319
-    seed-fossil: 14357921
-    seed-portal: 34222645
-    seed-stronghold: default
+    seed-village: 26369911
+    seed-desert: 26369911
+    seed-igloo: 26369911
+    seed-jungle: 26369911
+    seed-swamp: 26369911
+    seed-monument: 26369911
+    seed-shipwreck: 26369911
+    seed-ocean: 26369911
+    seed-outpost: 26369911
+    seed-endcity: 26369911
+    seed-slime: 26369911
+    seed-nether: 26369911
+    seed-mansion: 26369911
+    seed-fossil: 26369911
+    seed-portal: 26369911
+    seed-stronghold: 26369911
     entity-tracking-range:
       display: 128
       players: 48
