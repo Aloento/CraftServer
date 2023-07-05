@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 112.97.84.100
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1660569933086
+  login: 1660568595244
+money: '0'
+lastlocation:
+  world: e06014b7-68a5-4e8f-ba34-becad4f396e8
+  world-name: world
+  x: 6.5
+  y: 94.0
+  z: -8.5
+  yaw: 0.0
+  pitch: 0.0
+last-account-name: wencan
+logoutlocation:
+  world: e06014b7-68a5-4e8f-ba34-becad4f396e8
+  world-name: world
+  x: -228.82703540601423
+  y: 68.0
+  z: 166.68392298503375
+  yaw: 150.59327697753906
+  pitch: 4.923789978027344

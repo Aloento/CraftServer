@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.63.18.155
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1660406861285
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1660406963254
+  login: 1660406826811
+money: '0'
+last-account-name: Aloento
+lastlocation:
+  world: e06014b7-68a5-4e8f-ba34-becad4f396e8
+  world-name: world
+  x: -511.22481700426715
+  y: 178.11933181741284
+  z: 348.17667735208767
+  yaw: -41.582794189453125
+  pitch: 52.05002975463867
+logoutlocation:
+  world: e06014b7-68a5-4e8f-ba34-becad4f396e8
+  world-name: world
+  x: -530.7584442947848
+  y: 63.0
+  z: 55.016694660412156
+  yaw: -12.891279220581055
+  pitch: 33.44990539550781

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 107.150.30.175
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1662866233338
+  login: 1662866230237
+money: '0'
+last-account-name: schtonn
+lastlocation:
+  world: e06014b7-68a5-4e8f-ba34-becad4f396e8
+  world-name: world
+  x: 14.289846306421492
+  y: 73.0
+  z: 20.448057357245613
+  yaw: -16.492462158203125
+  pitch: 24.299476623535156
+logoutlocation:
+  world: e06014b7-68a5-4e8f-ba34-becad4f396e8
+  world-name: world
+  x: 536.624041192282
+  y: 52.5
+  z: 108.51982347443371
+  yaw: -89.6878662109375
+  pitch: 13.34952163696289

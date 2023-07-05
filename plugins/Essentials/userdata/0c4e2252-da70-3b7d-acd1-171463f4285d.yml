@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 112.23.142.169
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1659011538964
+  login: 1659009813209
+money: '0'
+last-account-name: SiSi_dmk
+lastlocation:
+  world: e06014b7-68a5-4e8f-ba34-becad4f396e8
+  world-name: world
+  x: -242.9903119232199
+  y: 71.0
+  z: 199.39970078230996
+  yaw: -104.39276123046875
+  pitch: 21.42357635498047
+logoutlocation:
+  world: e06014b7-68a5-4e8f-ba34-becad4f396e8
+  world-name: world
+  x: -218.62272391212753
+  y: 149.4708094933055
+  z: 210.65838223099882
+  yaw: 125.20751953125
+  pitch: 67.20098114013672

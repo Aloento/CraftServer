@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 111.199.184.55
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1658651801139
+  login: 1658651698700
+money: '0'
+last-account-name: superHero
+lastlocation:
+  world: e06014b7-68a5-4e8f-ba34-becad4f396e8
+  world-name: world
+  x: 159.30000001192093
+  y: -14.0
+  z: 44.30000001192093
+  yaw: -33.136924743652344
+  pitch: 24.299631118774414
+logoutlocation:
+  world: e06014b7-68a5-4e8f-ba34-becad4f396e8
+  world-name: world
+  x: 7.813707290830601
+  y: 86.0
+  z: -352.36474023544326
+  yaw: -176.44248962402344
+  pitch: 90.0
