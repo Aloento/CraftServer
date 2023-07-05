@@ -1,0 +1,147 @@
+#           ---- + HealthBar by DavideBlade + ----
+#
+#         Please read the instructions before editing:
+# https://github.com/DavideBlade/HealthBar-Reloaded/wiki/Configuration
+#
+#           ---- + ---------------------- + ----
+#
+player-bars:
+  
+  # Enable or disable player health bars.
+  # It will disable even the health under the tag.
+  enable: true
+  
+  
+  after-name:
+    
+    # Enable or disable the bars only after or before the
+    # player's tag. Doesn't disable the health under.
+    enable: true
+    
+    # The style of the health bar, if text-mode is not set to true.
+    # You can choose between 6 different styles (1,2,3,4,5,6).
+    display-style: 1
+    
+    # Always show health bars on players.
+    always-shown: false
+    
+    # Shows the health with a text after the tag:
+    # for example 'Steve - 18/20'
+    text-mode: false
+    
+    # The bar after the player's name is shown for the specified time when the player is hit.
+    # In other words, after the time specified by the hit has passed, the bar is hidden again.
+    # You will need to set 'always-shown: false'.
+    hide-delay-seconds: 5
+    
+    # You can choose to use your own made bars,
+    # it will override the previous setting 'text-mode'.
+    use-custom-file: false
+  
+  
+  below-name:
+    
+    # Enable or disable the health under the name.
+    # It will be displayed on all player.
+    enable: true
+    
+    # The text that will be displayed under the tag, after the health value.
+    # The position cannot be changed (minecraft limitations).
+    # If you want to use spaces before the text or weird symbols,
+    # surround the text with single quotes (  '<3'  ).
+    # <3 will be replaced by ❤.
+    # You can use formatting codes.
+    text: '% &cHealth'
+    
+    display-raw-hearts: false
+    
+    # Set to true if you want the plugin to make a proportion,
+    # so the maximum health will be the same for all the players.
+    # If disabled, the normal health of a player appears as 20.
+    # If you want to enable it, you need to set 'display-raw-hearts: false'.
+    use-proportion: true
+    
+    # If you set this to 100, you can view the health as percentage.
+    # If a player has half health, it will display 5.
+    proportional-to: 100
+  
+  
+  
+  # A list of disabled worlds for player bars.
+  disabled-worlds: world_nether,world_the_end
+
+
+
+
+
+
+mob-bars:
+  
+  # Choose to enable or disable mob health bar.
+  enable: true
+  
+  # Should the bar be shown on renamed mobs?
+  show-on-named-mobs: true
+  
+  # The style for the bar. You can choose between 5 style (1,2,3,4,5).
+  display-style: 1
+  
+  # Always show health bars on all the valid mobs.
+  always-shown: false
+  
+  # Use text instead of bar.
+  text-mode: false
+  
+  # Use your custom text, you will need to set 'text-mode: true'
+  custom-text-enable: false
+  
+  # The custom text: you can use these placeholder:
+  # {name} = the name of the mob hit.
+  # {health} = the current health.
+  # {max} = the maximum health.
+  # <3 = a hearth symbol (❤)
+  # &4 / &n / &k ... = all the formatting codes.
+  #
+  # For example this will be displayed as 'Creeper - 16/20'
+  custom-text: '{name} - &a{health}/{max}'
+  
+  # The health bar is shown for the specified time when the mob is hit.
+  # In other words, after the time specified by the hit has passed, the bar is hidden again.
+  # You will need to set 'always-shown: false'.
+  hide-delay-seconds: 5
+  
+  # If enabled, health bars on mobs will be shown only if
+  # the player looks directly at him.
+  show-only-if-looking: false
+  
+  # You can choose to use your own made bars, it will override the previous settings.
+  use-custom-file: false
+  
+  # A list of disabled worlds for mob bars.
+  disabled-worlds: world_nether,world_the_end
+  
+  # These mobs won't show the health.
+  # The names are the same in locale.yml
+  disabled-types: creeper,zombie,skeleton,iron_golem
+
+
+
+
+
+# Disable this if you have other plugins that changes the tab names.
+# Otherwise, the health bars will be show here.
+fix-tab-names: true
+
+# Disable this to remove health bars from death messages.
+# Disable if you have other plugins to handle them.
+bar-in-death-messages: false
+
+# If you enable this, you have to give the permission to players to see the health bar on other players.
+# It will send a fake empty scoreboard to players without permissions, use this carefully.
+use-player-bar-permissions: false
+
+# This is a temporary fix for other plugin like MobArena overriding player health bars when in the arena.
+# Enable this to fix, HealthBar will try to take over other scoreboards from other plugins.
+override-other-scoreboard: false
+hooks:
+  MythicMobs: false
