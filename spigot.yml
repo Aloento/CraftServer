@@ -59,6 +59,10 @@ commands:
   - tellraw
 world-settings:
   default:
+    seed-ancientcity: 20083232
+    seed-trailruins: 83469867
+    seed-buriedtreasure: 10387320
+    seed-mineshaft: default
     below-zero-generation-in-existing-chunks: true
     end-portal-sound-radius: 0
     enable-zombie-pigmen-portal-spawns: true
@@ -78,6 +82,8 @@ world-settings:
     nerf-spawner-mobs: false
     mob-spawn-range: 8
     growth:
+      torchflower-modifier: 100
+      pitcherplant-modifier: 100
       cactus-modifier: 100
       cane-modifier: 100
       melon-modifier: 100
@@ -141,6 +147,7 @@ world-settings:
     seed-portal: 34222645
     seed-stronghold: default
     entity-tracking-range:
+      display: 128
       players: 48
       animals: 48
       monsters: 48

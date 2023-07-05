@@ -143,3 +143,5 @@ use-player-bar-permissions: false
 # This is a temporary fix for other plugin like MobArena overriding player health bars when in the arena.
 # Enable this to fix, HealthBar will try to take over other scoreboards from other plugins.
 override-other-scoreboard: false
+hooks:
+  MythicMobs: false

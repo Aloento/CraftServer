@@ -12,3 +12,4 @@ updateUsersIgnoreListUUID: true
 updateUsersStupidLegacyPathNames: true
 updateUsersMailList: true
 updatePurgeBrokenNpcAccounts: true
+newUidCacheBuilt: true
