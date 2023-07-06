@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 116.176.32.217
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1688616590548
+  login: 1688616325491
+money: '0'
+last-account-name: boluo18
+lastlocation:
+  world: 65624c87-80fa-44a4-a967-3fe42a2a777d
+  world-name: world
+  x: 160.5
+  y: 63.0
+  z: 213.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 65624c87-80fa-44a4-a967-3fe42a2a777d
+  world-name: world
+  x: 131.6680539692687
+  y: 75.0
+  z: 175.3319888137671
+  yaw: 66.60797119140625
+  pitch: 29.223392486572266

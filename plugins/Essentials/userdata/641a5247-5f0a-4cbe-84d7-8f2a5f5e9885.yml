@@ -11,28 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1688563743107
+  lastteleport: 1688581246475
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1688566507136
-  login: 1688566475141
+  logout: 1688581846494
+  login: 1688578234942
 money: '0'
 last-account-name: Aloento
 lastlocation:
-  world: 8944a3a5-65d3-47a7-8086-3651c5c0fca6
+  world: 65624c87-80fa-44a4-a967-3fe42a2a777d
   world-name: world
-  x: 54.5
-  y: 69.0
-  z: 26.5
-  yaw: 0.0
-  pitch: 0.0
+  x: 8.499891121303122
+  y: 64.0
+  z: 13.531509808983285
+  yaw: 178.80780029296875
+  pitch: 82.02354431152344
 logoutlocation:
-  world: 8944a3a5-65d3-47a7-8086-3651c5c0fca6
+  world: 65624c87-80fa-44a4-a967-3fe42a2a777d
   world-name: world
-  x: 19.65875716766552
-  y: 78.52182946857153
-  z: 16.621902466497865
-  yaw: -67.34375762939453
-  pitch: 13.62354850769043
+  x: 73.8178077177284
+  y: 68.0
+  z: 85.35497357128747
+  yaw: -105.44119262695312
+  pitch: -1.526278018951416

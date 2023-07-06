@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 112.21.32.147
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1688577982998
+  login: 1688577484891
+money: '0'
+last-account-name: LatentKSI
+lastlocation:
+  world: 65624c87-80fa-44a4-a967-3fe42a2a777d
+  world-name: world
+  x: 49.5
+  y: 69.0
+  z: 25.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 65624c87-80fa-44a4-a967-3fe42a2a777d
+  world-name: world
+  x: 121.18667112951566
+  y: 66.0
+  z: 143.12565247736342
+  yaw: -120.1365966796875
+  pitch: 0.899833619594574
