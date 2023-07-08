@@ -16,23 +16,23 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1688652425985
-  login: 1688651688309
+  logout: 1688817572436
+  login: 1688817389880
 money: '0'
 last-account-name: Aloento
 lastlocation:
-  world: ddec7c62-3e78-4a95-a180-78023b68fcdf
+  world: 1f020673-072d-4777-ad6b-fc95fb6b208d
   world-name: world
-  x: 58.51810257066793
-  y: 71.25078863287058
-  z: 63.18419541717377
-  yaw: 81.59545135498047
-  pitch: 40.05002975463867
-logoutlocation:
-  world: ddec7c62-3e78-4a95-a180-78023b68fcdf
-  world-name: world
-  x: 364.4932860166497
-  y: 116.0
-  z: 308.2686885831301
-  yaw: 359.1066589355469
+  x: -23.5
+  y: 72.0
+  z: -78.5
+  yaw: 0.0
   pitch: 0.0
+logoutlocation:
+  world: 1f020673-072d-4777-ad6b-fc95fb6b208d
+  world-name: world
+  x: 74.65476415681384
+  y: 65.0
+  z: 108.55603130583084
+  yaw: 157.1317138671875
+  pitch: 22.800127029418945

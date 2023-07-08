@@ -19,7 +19,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2023-07-07 16:41:33 +0200",
       "minecraft:taiga": "2023-07-07 15:45:08 +0200",
+      "minecraft:cherry_grove": "2023-07-07 16:40:05 +0200",
+      "minecraft:birch_forest": "2023-07-07 16:39:30 +0200",
       "minecraft:windswept_hills": "2023-07-07 15:53:20 +0200",
       "minecraft:beach": "2023-07-07 16:01:20 +0200",
       "minecraft:river": "2023-07-07 15:45:45 +0200",
@@ -28,8 +31,11 @@
       "minecraft:swamp": "2023-07-07 15:54:03 +0200",
       "minecraft:cold_ocean": "2023-07-07 15:59:49 +0200",
       "minecraft:forest": "2023-07-07 15:43:48 +0200",
+      "minecraft:deep_cold_ocean": "2023-07-07 16:47:16 +0200",
       "minecraft:ocean": "2023-07-07 16:08:31 +0200",
+      "minecraft:frozen_peaks": "2023-07-07 16:41:24 +0200",
       "minecraft:old_growth_birch_forest": "2023-07-07 16:08:33 +0200",
+      "minecraft:meadow": "2023-07-07 16:41:58 +0200",
       "minecraft:windswept_gravelly_hills": "2023-07-07 15:53:22 +0200",
       "minecraft:plains": "2023-07-07 15:50:54 +0200"
     },
@@ -86,6 +92,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2023-07-07 15:45:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2023-07-07 16:41:24 +0200"
     },
     "done": true
   },
