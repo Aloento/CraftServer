@@ -16,23 +16,23 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1688734212355
-  login: 1688733599805
+  logout: 1688823268262
+  login: 1688823105296
 money: '0'
 last-account-name: NINGISHU_AAA
 lastlocation:
-  world: ddec7c62-3e78-4a95-a180-78023b68fcdf
+  world: 1f020673-072d-4777-ad6b-fc95fb6b208d
   world-name: world
-  x: 43.5
-  y: 79.0
-  z: 22.5
+  x: -34.5
+  y: 65.0
+  z: -73.5
   yaw: 0.0
   pitch: 0.0
 logoutlocation:
-  world: ddec7c62-3e78-4a95-a180-78023b68fcdf
+  world: 1f020673-072d-4777-ad6b-fc95fb6b208d
   world-name: world
-  x: 98.4429979617872
-  y: 58.0
-  z: 262.83529112280047
-  yaw: 57.45220947265625
-  pitch: 6.499543190002441
+  x: 67.18934397730186
+  y: 74.0
+  z: 79.57838960876784
+  yaw: -90.37336730957031
+  pitch: 58.93806076049805

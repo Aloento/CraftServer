@@ -16,23 +16,23 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1688804958138
-  login: 1688804913081
+  logout: 1689082183145
+  login: 1689082138092
 money: '0'
 last-account-name: 10086mea
 lastlocation:
   world: 1f020673-072d-4777-ad6b-fc95fb6b208d
   world-name: world
-  x: -29.5
-  y: 69.0
-  z: -88.5
-  yaw: 0.0
-  pitch: 0.0
+  x: 65.17491687279812
+  y: 64.0
+  z: 118.01525728578174
+  yaw: 47.77607727050781
+  pitch: 24.438081741333008
 logoutlocation:
   world: 1f020673-072d-4777-ad6b-fc95fb6b208d
   world-name: world
-  x: -362.00827378606016
+  x: 134.5
   y: 63.0
-  z: 279.0760306571678
-  yaw: 39.29520034790039
-  pitch: 18.900049209594727
+  z: 216.5
+  yaw: -156.0625
+  pitch: -3.7618460655212402
