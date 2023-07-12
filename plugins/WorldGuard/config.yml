@@ -70,20 +70,20 @@ ignition:
     block-tnt-block-damage: false
     block-lighter: false
 fire:
-    disable-lava-fire-spread: false
-    disable-all-fire-spread: false
+    disable-lava-fire-spread: true
+    disable-all-fire-spread: true
     disable-fire-spread-blocks: []
     lava-spread-blocks: []
 mobs:
-    block-creeper-explosions: false
+    block-creeper-explosions: true
     block-creeper-block-damage: false
-    block-wither-explosions: false
+    block-wither-explosions: true
     block-wither-block-damage: false
-    block-wither-skull-explosions: false
+    block-wither-skull-explosions: true
     block-wither-skull-block-damage: false
     block-enderdragon-block-damage: false
     block-enderdragon-portal-creation: false
-    block-fireball-explosions: false
+    block-fireball-explosions: true
     block-fireball-block-damage: false
     anti-wolf-dumbness: false
     allow-tamed-spawns: true
@@ -94,7 +94,7 @@ mobs:
     block-armor-stand-destroy: false
     block-plugin-spawning: true
     block-above-ground-slimes: false
-    block-other-explosions: false
+    block-other-explosions: true
     block-zombie-door-destruction: false
     block-vehicle-entry: false
     block-creature-spawn: []
