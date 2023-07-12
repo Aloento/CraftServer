@@ -20,23 +20,47 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2023-07-07 16:41:33 +0200",
+      "minecraft:old_growth_pine_taiga": "2023-07-11 16:04:06 +0200",
       "minecraft:taiga": "2023-07-07 15:45:08 +0200",
+      "minecraft:deep_ocean": "2023-07-11 15:48:55 +0200",
+      "minecraft:frozen_river": "2023-07-11 16:06:29 +0200",
       "minecraft:cherry_grove": "2023-07-07 16:40:05 +0200",
+      "minecraft:sunflower_plains": "2023-07-11 15:46:23 +0200",
       "minecraft:birch_forest": "2023-07-07 16:39:30 +0200",
       "minecraft:windswept_hills": "2023-07-07 15:53:20 +0200",
+      "minecraft:bamboo_jungle": "2023-07-11 15:58:38 +0200",
       "minecraft:beach": "2023-07-07 16:01:20 +0200",
+      "minecraft:dark_forest": "2023-07-11 16:36:31 +0200",
+      "minecraft:mangrove_swamp": "2023-07-11 15:54:48 +0200",
+      "minecraft:sparse_jungle": "2023-07-11 16:02:02 +0200",
       "minecraft:river": "2023-07-07 15:45:45 +0200",
+      "minecraft:lukewarm_ocean": "2023-07-11 15:53:32 +0200",
       "minecraft:stony_shore": "2023-07-07 16:01:22 +0200",
+      "minecraft:snowy_plains": "2023-07-11 17:07:01 +0200",
       "minecraft:dripstone_caves": "2023-07-07 15:51:39 +0200",
+      "minecraft:snowy_taiga": "2023-07-11 18:15:15 +0200",
       "minecraft:swamp": "2023-07-07 15:54:03 +0200",
+      "minecraft:grove": "2023-07-11 16:08:34 +0200",
+      "minecraft:jagged_peaks": "2023-07-11 16:09:13 +0200",
       "minecraft:cold_ocean": "2023-07-07 15:59:49 +0200",
       "minecraft:forest": "2023-07-07 15:43:48 +0200",
+      "minecraft:lush_caves": "2023-07-11 18:25:09 +0200",
       "minecraft:deep_cold_ocean": "2023-07-07 16:47:16 +0200",
+      "minecraft:ice_spikes": "2023-07-11 17:08:04 +0200",
+      "minecraft:frozen_ocean": "2023-07-11 16:06:21 +0200",
+      "minecraft:windswept_forest": "2023-07-11 17:52:45 +0200",
+      "minecraft:deep_frozen_ocean": "2023-07-11 18:17:57 +0200",
       "minecraft:ocean": "2023-07-07 16:08:31 +0200",
+      "minecraft:jungle": "2023-07-11 16:36:43 +0200",
+      "minecraft:old_growth_spruce_taiga": "2023-07-11 16:04:32 +0200",
+      "minecraft:windswept_savanna": "2023-07-11 15:53:27 +0200",
+      "minecraft:flower_forest": "2023-07-11 16:19:06 +0200",
       "minecraft:frozen_peaks": "2023-07-07 16:41:24 +0200",
       "minecraft:old_growth_birch_forest": "2023-07-07 16:08:33 +0200",
+      "minecraft:deep_dark": "2023-07-11 16:20:54 +0200",
       "minecraft:meadow": "2023-07-07 16:41:58 +0200",
       "minecraft:windswept_gravelly_hills": "2023-07-07 15:53:22 +0200",
+      "minecraft:savanna": "2023-07-11 15:54:32 +0200",
       "minecraft:plains": "2023-07-07 15:50:54 +0200"
     },
     "done": false
@@ -109,9 +133,16 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2023-07-11 15:35:37 +0200"
+      "minecraft:skeleton": "2023-07-11 15:35:37 +0200",
+      "minecraft:zombie": "2023-07-12 16:22:19 +0200"
     },
     "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2023-07-11 15:35:37 +0200"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
@@ -119,9 +150,315 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
+  "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
-      "minecraft:skeleton": "2023-07-11 15:35:37 +0200"
+      "has_ender_eye": "2023-07-11 16:05:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2023-07-11 16:05:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2023-07-11 16:21:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2023-07-11 16:56:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2023-07-11 16:57:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2023-07-11 18:25:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2023-07-11 18:25:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2023-07-11 18:25:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2023-07-11 18:25:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2023-07-11 18:25:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2023-07-11 18:25:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2023-07-11 18:25:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2023-07-11 18:25:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2023-07-11 18:25:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2023-07-11 18:25:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-07-11 18:28:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2023-07-11 18:28:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2023-07-11 18:28:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2023-07-11 18:28:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2023-07-11 18:28:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2023-07-11 18:28:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2023-07-11 18:28:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2023-07-12 16:23:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2023-07-12 16:42:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2023-07-12 16:19:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2023-07-12 16:42:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-07-12 16:42:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2023-07-12 16:27:42 +0200"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2023-07-12 16:27:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2023-07-12 16:27:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-07-12 16:42:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2023-07-12 16:19:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2023-07-12 16:27:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-07-12 16:42:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2023-07-12 16:27:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2023-07-12 16:42:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2023-07-12 16:42:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2023-07-12 16:22:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2023-07-12 16:20:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2023-07-12 16:42:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2023-07-12 16:19:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2023-07-12 16:42:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2023-07-12 16:23:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2023-07-12 16:22:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2023-07-12 16:19:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2023-07-12 16:23:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2023-07-12 16:42:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2023-07-12 16:21:13 +0200"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-07-12 16:21:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2023-07-12 16:27:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2023-07-12 16:22:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2023-07-12 16:42:01 +0200"
     },
     "done": true
   },
