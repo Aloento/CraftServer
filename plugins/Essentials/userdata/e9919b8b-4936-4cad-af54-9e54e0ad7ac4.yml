@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1689178180146
-  login: 1689175245423
+  logout: 1689182066419
+  login: 1689178304003
 money: '0'
 last-account-name: 10086mea
 lastlocation:
@@ -29,10 +29,10 @@ lastlocation:
   yaw: -157.87261962890625
   pitch: 24.30008888244629
 logoutlocation:
-  world: 1f020673-072d-4777-ad6b-fc95fb6b208d
-  world-name: world
-  x: 144.69547071385338
-  y: 69.0
-  z: 202.30000001192093
-  yaw: 179.4580078125
-  pitch: 16.050243377685547
+  world: 9e0287c9-7aaa-40e9-a99e-90a0b3627121
+  world-name: world_nether
+  x: 135.56028886267683
+  y: 60.0
+  z: 18.858946867680906
+  yaw: 117.07403564453125
+  pitch: 8.400177955627441

@@ -1240,5 +1240,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2023-07-12 19:03:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2023-07-12 18:52:36 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
