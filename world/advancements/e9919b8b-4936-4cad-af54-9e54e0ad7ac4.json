@@ -507,6 +507,7 @@
       "minecraft:phantom": "2023-07-11 18:42:02 +0200",
       "minecraft:witch": "2023-07-12 16:39:46 +0200",
       "minecraft:wither_skeleton": "2023-07-12 19:08:53 +0200",
+      "minecraft:enderman": "2023-07-12 19:55:51 +0200",
       "minecraft:zombie": "2023-07-11 17:17:05 +0200",
       "minecraft:drowned": "2023-07-11 18:29:02 +0200"
     },
@@ -1827,6 +1828,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2023-07-12 18:12:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2023-07-12 18:46:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2023-07-12 19:06:10 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2023-07-12 19:07:24 +0200"
@@ -1836,12 +1855,6 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2023-07-12 19:07:24 +0200"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2023-07-12 19:09:23 +0200"
     },
     "done": true
   },
@@ -1857,21 +1870,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2023-07-12 18:46:34 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2023-07-12 19:07:24 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2023-07-12 19:09:23 +0200"
     },
     "done": true
   },
@@ -1893,15 +1894,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+  "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
-      "has_bone_block": "2023-07-12 19:06:10 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_bowl": "2023-07-12 18:12:50 +0200"
+      "has_nether_bricks": "2023-07-12 19:07:24 +0200"
     },
     "done": true
   },
@@ -1911,15 +1906,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2023-07-12 19:09:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2023-07-12 19:09:23 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/nether_brick_fence": {
+  "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
-      "has_nether_bricks": "2023-07-12 19:07:24 +0200"
+      "has_blaze_rod": "2023-07-12 19:09:23 +0200"
     },
     "done": true
   },
