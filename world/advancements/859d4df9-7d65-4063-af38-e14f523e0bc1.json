@@ -46,6 +46,7 @@
       "minecraft:husk": "2023-07-10 14:51:37 +0200",
       "minecraft:enderman": "2023-07-10 14:54:29 +0200",
       "minecraft:zombie": "2023-07-10 14:19:15 +0200",
+      "minecraft:drowned": "2023-07-23 13:45:06 +0200",
       "minecraft:zombie_villager": "2023-07-12 02:41:29 +0200"
     },
     "done": false
@@ -1123,6 +1124,18 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2023-07-17 03:16:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2023-07-20 12:49:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2023-07-23 13:43:42 +0200"
     },
     "done": true
   },
