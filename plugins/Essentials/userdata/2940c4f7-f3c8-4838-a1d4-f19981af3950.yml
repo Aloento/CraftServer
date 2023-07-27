@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: ''
+ip-address: 94.103.124.169
 afk: false
 socialspy: false
 npc: false
@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1689753529077
-  login: 0
+  logout: 1690302752318
+  login: 1690302752012
 money: '0'
 logoutlocation:
   world: 1f020673-072d-4777-ad6b-fc95fb6b208d
@@ -27,3 +27,4 @@ logoutlocation:
   z: -82.5
   yaw: 0.0
   pitch: 0.0
+last-account-name: nutties_nuts
