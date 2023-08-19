@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 64.120.119.69
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1690785581430
+  login: 1690785479669
+money: '0'
+last-account-name: .RegentPine63233
+lastlocation:
+  world: 1f020673-072d-4777-ad6b-fc95fb6b208d
+  world-name: world
+  x: -33.5
+  y: 64.0
+  z: -81.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 1f020673-072d-4777-ad6b-fc95fb6b208d
+  world-name: world
+  x: 205.153
+  y: 71.0
+  z: 184.75587
+  yaw: 82.49826049804688
+  pitch: 11.493621826171875

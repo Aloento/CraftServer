@@ -249,6 +249,7 @@ lootables:
   refresh-min: 12h
   reset-seed-on-fill: true
   restrict-player-reloot: true
+  restrict-player-reloot-time: disabled
 maps:
   item-frame-cursor-limit: 128
   item-frame-cursor-update-interval: 10
