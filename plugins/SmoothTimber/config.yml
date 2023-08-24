@@ -1,0 +1,47 @@
+global:
+  debug: false
+  sync-time: 50
+cutter:
+  radius: 2
+  depth: 3
+  materials:
+  - WOODEN_AXE
+  - STONE_AXE
+  - IRON_AXE
+  - GOLDEN_AXE
+  - DIAMOND_AXE
+  - NETHERITE_AXE
+options:
+  sneak: 'off'
+  toggleable: 'off'
+  sync-detection: false
+  animation: true
+  collect-instantly: false
+  permission:
+    wood-type: false
+    cutter-type: false
+limit:
+  enabled: true
+  default: 1000
+cooldown:
+  enabled: false
+  time: 20000
+enchantments:
+  unbreaking:
+    enabled: true
+  fortune:
+    enabled: false
+    multiplier: 1.0
+exclusion:
+  enabled: false
+  list: []
+inclusion:
+  enabled: false
+  list: []
+worlds:
+  enabled: false
+  blacklist: false
+  list:
+  - world
+  - world_nether
+  - world_the_end

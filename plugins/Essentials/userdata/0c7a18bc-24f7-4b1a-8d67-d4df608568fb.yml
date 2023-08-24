@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 195.66.157.20
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1692835253521
+  login: 1692832674317
+money: '0'
+last-account-name: bariscodefx
+lastlocation:
+  world: 1f020673-072d-4777-ad6b-fc95fb6b208d
+  world-name: world
+  x: -27.5
+  y: 72.0
+  z: -88.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 1f020673-072d-4777-ad6b-fc95fb6b208d
+  world-name: world
+  x: 490.30000001192093
+  y: 75.0
+  z: -357.3161634072479
+  yaw: 69.54061889648438
+  pitch: 23.63890266418457

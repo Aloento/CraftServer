@@ -1,0 +1,13 @@
+addons:
+  CoreProtect: true
+  Lands: true
+  Towny: true
+  Jobs: true
+  Factions: true
+  mcMMO: true
+  Residence: true
+  BlockyLog: true
+  GriefPrevention: true
+  LogBlock: true
+  PlaceholderAPI: true
+  WorldGuard: true
